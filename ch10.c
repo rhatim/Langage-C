@@ -6,7 +6,7 @@ int main()
 {
     float r , C;
 
-    printf("Entrer le rayon r = \t\n");
+    printf("Entrer le rayon r = \n");
     scanf("%f",&r);
 
     C = 2*Pi*r;
