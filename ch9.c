@@ -7,16 +7,16 @@ int main()
     float x1 , y1 , x2 , y2 , M , N , MN ;
 
     printf("Entrer x1 :\t \n");
-    scanf("%fd",&x1);
+    scanf("%f",&x1);
 
     printf("Entrer y1 :\t \n");
-    scanf("%fd",&y1);
+    scanf("%f",&y1);
 
     printf("Entrer x2 :\t \n");
-    scanf("%fd",&x2);
+    scanf("%f",&x2);
 
     printf("Entrer y2 :\t \n");
-    scanf("%fd",&y2);
+    scanf("%f",&y2);
 
     M = (x2 - x1)*(x2 - x1);
     N = (y2 - y1)*(y2 - y1);
