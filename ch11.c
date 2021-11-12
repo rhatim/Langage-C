@@ -5,10 +5,10 @@ int main()
 {
     float C , longueur , largeur ;
 
-    printf("Entrer la longueur : \t\n"),
+    printf("Entrer la longueur : \n"),
     scanf("%f",&longueur);
 
-    printf("Entrer la largeur : \t\n"),
+    printf("Entrer la largeur : \n"),
     scanf("%f",&largeur);
 
     C = 2*(longueur + largeur);
