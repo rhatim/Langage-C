@@ -3,7 +3,7 @@
 
 int main()
 {
-    int Nb , O , H ;
+    int Nb ;
 
     printf("Entrez un nombre entier : \n");
     scanf("%d",&Nb);
